@@ -1,0 +1,17 @@
+{
+  "identifier": "urn:ai:github.com:seancrecord:scvd-general-store-repo:scvd-general-store",
+  "displayName": "SCVD General Store",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/seancrecord/scvd-general-store-repo/blob/main/skills/scvd-general-store/SKILL.md",
+  "description": "A live x402 practice counter with real settlement from $0.004, free conformance checking for any issuer's signed x402 offers and receipts, and a signed evidence observatory for agentic commerce.",
+  "tags": [
+    "x402",
+    "payments",
+    "mcp-server",
+    "agent-commerce"
+  ],
+  "metadata": {
+    "sourceSet": "scvd-general-store-repo",
+    "repoPath": "skills/scvd-general-store/SKILL.md"
+  }
+}
